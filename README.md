@@ -12,6 +12,11 @@ A secure and responsive full-stack admin dashboard for managing doctors, patient
 
 ---
 
+## 🔑 Demo Credentials
+
+**Email:** `admin@example.com`
+**Password:** `Admin123456`
+
 ## 📌 Overview
 
 Doctor Tracker is a full-stack healthcare management application built with **Next.js, Node.js, Express.js, and MongoDB**.
